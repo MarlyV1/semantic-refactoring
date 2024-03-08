@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The site can be utilized by using the functioning navigation bar to go to the three main sections within the page. For instance, clicking on the Search Engine Optimization button on the naviation bar will lead to the section providing more details about the topic. The same can be done for the two other buttons on the navigation bar. 
+The site can be utilized by using the functioning navigation bar to go to the three main sections within the page. For instance, clicking on the Search Engine Optimization button on the naviation bar will lead to the section providing more details about the topic. The same can be done for the two other buttons on the navigation bar. ![alt text](assets/images/screenshot.png)
 
 ## Credits
 
